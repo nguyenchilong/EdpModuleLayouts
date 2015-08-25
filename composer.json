@@ -1,5 +1,5 @@
 {
-    "name": "evandotpro/edp-module-layouts",
+    "name": "test-app",
     "description": "EdpModuleLayouts is very simple ZF2 module for making module-specific layouts insanely easy.",
     "type": "library",
     "keywords": [
