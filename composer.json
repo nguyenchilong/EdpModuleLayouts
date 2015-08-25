@@ -1,5 +1,5 @@
 {
-    "name": "mycom-lib/test-app",
+    "name": "evandotpro/edp-module-layouts",
     "description": "EdpModuleLayouts is very simple ZF2 module for making module-specific layouts insanely easy.",
     "type": "library",
     "keywords": [
